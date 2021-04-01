@@ -1,0 +1,12 @@
+{
+    "name": "quentin/6twig",
+    "authors": [
+        {
+            "name": "Quentin-BLANC",
+            "email": "quentinblanc587@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.3"
+    }
+}
